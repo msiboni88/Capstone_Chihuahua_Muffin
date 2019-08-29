@@ -25,3 +25,7 @@ The question of Chihuahua versus Blueberry Muffin fascinated me because--in the 
 ### Model Types: 
 I began with a CNN trained from scratch on the scraped images. The maximum accuracy I gathered from this was 85%. I then incorporated Image Data Generation to increase my training size. This did not improve my accuracy but did increase the speed of running the model. Finally, I implemented transfer Learning and achieved >99% accuracy. 
 
+![](https://github.com/msiboni88/Capstone_Chihuahua_Muffin/blob/master/images/acc.png)
+![](https://github.com/msiboni88/Capstone_Chihuahua_Muffin/blob/master/images/cm.png)
+![](https://github.com/msiboni88/Capstone_Chihuahua_Muffin/blob/master/images/misclassified.png)
+
